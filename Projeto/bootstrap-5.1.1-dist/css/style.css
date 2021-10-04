@@ -1,0 +1,77 @@
+
+body{
+    background-color: #F8F8FF;
+}
+
+header,
+footer {
+    background-color:#FFEBCD;
+}
+
+.container{
+text-align: center ;
+}
+
+.carousel-item img{
+  width: 100px;
+  margin-bottom: 40%;
+  height: auto;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 70%;
+  height: auto;
+}
+
+#logo {
+  width: 120px;
+  margin: 40px 0;
+  height: auto;
+}
+
+.carousel,
+.row {
+  margin-bottom: 50px;
+}
+
+.carousel {
+  margin-top: 10px;
+}
+
+.carousel {
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.carousel img {
+  width: auto;
+}
+
+.row,h1{
+ text-align: left;
+}
+
+.row,h2{
+  margin-top: 10px;
+  text-align: left;
+ 
+}
+
+.btn-primary {
+  background-color: #FFA07A;
+  
+}
+
+.btn-primary:hover {
+  background-color: #FFA07A;
+}
+
+
+.card {
+  float: left;
+  margin: 15px;
+}
